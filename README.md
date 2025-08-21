@@ -1,12 +1,6 @@
 # Análisis de Pérdida de Clientes de TelecomX - Parte 2
 
-Esta es la continuación del análisis predictivo de churn en TelecomX, enfocada en la preparación de datos para modelado.
-
-## 📂 Datos Utilizados
-
-Los datos provienen del archivo JSON procesado y convertido a CSV:
-
-- **`TelecomX_Data_Clean.csv`** - Dataset limpio y preparado para análisis
+Esta es la continuación del análisis predictivo de churn en Telecom X, enfocada en la preparación de datos para modelado.
 
 El archivo contiene 20 columnas depuradas:
 
@@ -37,7 +31,7 @@ El archivo contiene 20 columnas depuradas:
 - **Pandas** para manipulación y limpieza de datos
 - **JSON** para manejo del formato original de datos
 - **Matplotlib/Seaborn** para visualizaciones estáticas
-- **Jupyter Notebook/Google Colab** para ejecución y documentación
+- **Jupyter Notebook** para ejecución y documentación
 
 ## 📋 Proceso de Preparación de Datos
 
